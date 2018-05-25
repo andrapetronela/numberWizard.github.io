@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Number Wizard",
+"dataUrl": "Number Wizard for web.data.unityweb",
+"asmCodeUrl": "Number Wizard for web.asm.code.unityweb",
+"asmMemoryUrl": "Number Wizard for web.asm.memory.unityweb",
+"asmFrameworkUrl": "Number Wizard for web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
